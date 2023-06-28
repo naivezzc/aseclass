@@ -12,3 +12,7 @@ example
 modify on develop
 
 modify on feature1
+
+
+My name is Fumitada Kurisu.
+My reserch is data mining.
